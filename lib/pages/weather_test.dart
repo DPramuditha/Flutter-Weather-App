@@ -12,7 +12,7 @@ class OpenWeatherMap extends StatefulWidget {
 
 class _OpenWeatherMapState extends State<OpenWeatherMap> {
 
-  final String apiKey = '3008b91003fa938db7d411f34e192077';
+  final String apiKey = '';
   @override
   Widget build(BuildContext context) {
     return Scaffold(
